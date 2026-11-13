@@ -14,7 +14,7 @@
     "react-dom": "19.3.0"
   },
   "devDependencies": {
-    "@prisma/client": "^5.19.0",
+    "@prisma/client": "^6.19.3",
     "@tailwindcss/turbopack": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
@@ -23,7 +23,7 @@
     "eslint-config-next": "16.4.5",
     "eslint-config-prettier": "^10.1.8",
     "prettier": "^3.9.10",
-    "prisma": "^5.19.0",
+    "prisma": "^6.19.3",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
